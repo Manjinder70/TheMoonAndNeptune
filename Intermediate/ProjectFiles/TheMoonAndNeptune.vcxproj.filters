@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TheMoonAndNeptune.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B8FFF091-6764-4CD9-9EE4-45E68FD060E6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheMoonAndNeptune.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TheMoonAndNeptuneEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3B478201-07DD-41A8-A3B2-5CE0CD422883}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TheMoonAndNeptune">
+      <UniqueIdentifier>{4099D1D2-F49F-41D0-BAD8-0F19448D8434}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\BuildNumber.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\BuildNumber.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\CPU.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\CPU.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\CPUAIController.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\CPUAIController.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\CPUMove.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\CPUMove.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\Cursor.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\Cursor.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\Game.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\Game.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\GameMenu.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\GameMenu.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\GameStatics.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\GameStatics.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\Grid.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\Grid.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\Instructions.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\Instructions.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\Moon.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\Moon.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\Neptune.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\Neptune.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\CustomPlayerController.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\CustomPlayerController.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\RingPulse.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\RingPulse.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\StaticCamera.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\StaticCamera.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TheMoonAndNeptune\TheMoonAndNeptune.Build.cs">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\TheMoonAndNeptune.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\TheMoonAndNeptune.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheMoonAndNeptune\TheMoonAndNeptuneGameModeBase.cpp">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheMoonAndNeptune\TheMoonAndNeptuneGameModeBase.h">
+      <Filter>Source\TheMoonAndNeptune</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
